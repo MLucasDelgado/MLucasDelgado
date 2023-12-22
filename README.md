@@ -30,7 +30,7 @@ ___
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="20" height="20"/> </a> 
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
 
-### <h3>¿Cuál es mi meta?</h3>
+### <h3>¿Cómo contactarme?</h3>
 ---
 <p>El próximo gran proyecto podría estar a solo un mensaje de distancia. ¡Estoy aquí y listo para trabajar juntos en algo grandioso! No dudes en contactarme.</p>
 <p>Red Social: <a href="https://www.linkedin.com/in/lucas-delgado-77b582165/" target="_blank" align="center"> Linkedin </a> </p>

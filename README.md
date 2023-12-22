@@ -34,5 +34,5 @@ ___
 ---
 <p>El próximo gran proyecto podría estar a solo un mensaje de distancia. ¡Estoy aquí y listo para trabajar juntos en algo grandioso! No dudes en contactarme.</p>
 <p>Red Social: <a href="https://www.linkedin.com/in/lucas-delgado-77b582165/" target="_blank" align="center"> Linkedin </a> </p>
-<p>Correo: <a href=""mailto: lucasdelgado.dev@gmail.com" target="_blank" align="center"> lucasdelgado.dev@gmail.com </a> </p> 
+<p>Correo: <a href="mailto:lucasdelgado.dev@gmail.com" target="_blank" align="center">lucasdelgado.dev@gmail.com</a> </p> 
 

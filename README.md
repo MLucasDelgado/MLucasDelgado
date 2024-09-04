@@ -7,7 +7,8 @@ Lo que más me fascina de la programación es la capacidad de crear y dar vida a
 
 ### <h3>¿En que me encuentro trabajando?</h3>
 ___
-<p>Actualmente estoy inmerso en el proceso de aprendizaje de <strong>Next.js</strong> , una tecnología de gran utilidad para la construcción de aplicaciones web. He completado un proyecto utilizando esta tecnología y estoy entusiasmado por profundizar mis conocimientos y habilidades en este campo. Además de consolidar mi dominio en Next.js, mi enfoque actual es incorporar <strong>TypeScript</strong> a mis habilidades</p>
+<p>Actualmente estoy cursando la carrera de programación en la UNT, un programa intensivo que se centra en el desarrollo de habilidades técnicas y lógicas en el campo de la programación. En este proceso, estoy trabajando activamente en fortalecer mi capacidad para resolver problemas complejos y mejorar mi lógica de programación a través de una serie de cursos y proyectos prácticos.</p>
+<p>Estoy aprendiendo y profundizando enlos lenguajes, PHP y C. PHP es fundamental para el desarrollo de aplicaciones web, y estoy explorando sus capacidades para manejar la lógica del lado del servidor, interactuar con bases de datos. Por otro lado, el lenguaje C me está proporcionando una comprensión sólida de la programación de bajo nivel, la gestión de recursos y comprender mejor cómo funcionan los sistemas a nivel de hardware.</p>
 
 ### <h3>¿Cuál es mi meta?</h3>
 ---

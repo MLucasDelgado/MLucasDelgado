@@ -1,7 +1,7 @@
 ### <h1>Hola, Soy Lucas Delgado 👋</h1>
 ### <h3>Sobre mi</h3>
 ---
-<p>Soy un <strong> Programador Full Stack,</strong> orientado al <strong>Front-End</strong> con experiencia en diseño web.</p>
+<p>Soy un <strong> Programador Full Stack,</strong> con experiencia en diseño web.</p>
 <p>Descubri el mundo de la programacion hace 1 año y a medida que más me voy adentrando en este mundo, más maravillado estoy.
 Lo que más me fascina de la programación es la capacidad de crear y dar vida a ideas desde cero. Cada línea de código es como una pieza de un rompecabezas que se ensambla para resolver problemas y dar forma a proyectos innovadores.</p>
 

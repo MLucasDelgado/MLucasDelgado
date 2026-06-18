@@ -1,6 +1,10 @@
 # 👋 Hola, soy Lucas Delgado
 
-### Full Stack Developer
+### Full Stack Developer | JavaScript • TypeScript • React • Node.js
+
+🌐 **Portfolio:** https://lucas-delgado.netlify.app
+
+💼 **LinkedIn:** https://linkedin.com/in/lucas-delgado-dev
 
 Soy estudiante de la carrera de **Programador Universitario** y desarrollador **Full Stack**, enfocado en la creación de aplicaciones web modernas y escalables.
 
@@ -13,7 +17,7 @@ Trabajo principalmente con **JavaScript** y **TypeScript**, desarrollando proyec
 - 🎓 Estudiante de Programador Universitario (UNT)
 - 💻 Desarrollador Full Stack
 - ⚙️ Experiencia desarrollando servicios Backend con WhatsApp Business API
-- 🌱 Profundizando conocimientos en Backend, arquitectura de software y bases de datos
+- 🌱 Continuamente aprendiendo y mejorando mis habilidades en desarrollo Full Stack, arquitectura de software y bases de datos
 - 🤝 Abierto a oportunidades Full Stack y Backend
 
 ---
@@ -46,6 +50,8 @@ Trabajo principalmente con **JavaScript** y **TypeScript**, desarrollando proyec
 
 Plataforma Full Stack enfocada en educación ambiental y reciclaje.
 
+**Tecnologías:** React, Next.js, Node.js, Express.js, PostgreSQL, Tailwind CSS
+
 - Autenticación de usuarios
 - Roles Administrador / Usuario
 - Gestión de perfiles
@@ -61,11 +67,15 @@ Plataforma Full Stack enfocada en educación ambiental y reciclaje.
 
 Aplicación para explorar información de países mediante búsqueda en tiempo real, filtros avanzados y actividades personalizadas.
 
+**Tecnologías:** React, Redux, Node.js, Express.js, PostgreSQL
+
 - Consumo de API externa
 - Filtros combinables
 - Búsqueda en tiempo real
-- Redux para gestión de estado
+- Gestión de estado con Redux
 - Formularios dinámicos
+
+🔗 https://countries-front-smoky.vercel.app/
 
 ---
 
@@ -80,17 +90,22 @@ Colección de proyectos desarrollados para fortalecer habilidades de frontend.
 - Componentes reutilizables
 - Interfaces responsivas
 
+🔗 https://buscador-peliculas-2026.netlify.app/
+
+🔗 https://test-shopping-cart.netlify.app/
+
+🔗 https://tateti-2026-react.netlify.app/
+
 ---
 
 ## 📫 Contacto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas%20Delgado-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/lucas-delgado-dev)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge)](https://lucas-delgado.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visitar-success?style=for-the-badge)](https://lucas-delgado.netlify.app)
 
 📧 **Email:** lucasdelgado.dev@gmail.com
 
 ---
 
 ⭐ Gracias por visitar mi perfil.
-
